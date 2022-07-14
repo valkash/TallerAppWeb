@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.app-page {
+    min-height: 100%;
+}
+
+.ant-btn-default:hover {
+    border-color: rgb(250, 140, 22);
+    color: rgb(250, 140, 22);
+}
